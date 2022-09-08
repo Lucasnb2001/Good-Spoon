@@ -1,0 +1,47 @@
+{
+  "recipes": [
+    {
+      "title": "Cocada 🥥 ",
+      "body": "Let's go to the beach. ",
+      "likes": 6,
+      "id": 3
+    },
+    {
+      "title": "Salad 🥗",
+      "body": "Pick some leaves.",
+      "likes": 4,
+      "id": 4
+    },
+    {
+      "title": "Cake 🎂 ",
+      "body": "This is how you do it.",
+      "likes": 3,
+      "id": 5
+    },
+    {
+      "title": "Banana 🍌 ",
+      "body": "Get in the tree.",
+      "likes": 2,
+      "id": 6
+    },
+    {
+      "title": "Ice cream 🍦 ",
+      "body": "Buy some ice and cream.",
+      "likes": 2,
+      "id": 11
+    },
+    {
+      "title": "Water 💦 ",
+      "body": "Go to the sea.",
+      "likes": 0,
+      "id": 14
+    }
+  ],
+  "people": [
+    {
+      "id": 1,
+      "name": "Andre",
+      "idade": 20
+    }
+  ]
+}
