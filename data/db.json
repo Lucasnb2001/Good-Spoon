@@ -3,7 +3,7 @@
     {
       "title": "Cocada 🥥 ",
       "body": "Let's go to the beach. ",
-      "likes": 6,
+      "likes": 8,
       "id": 3
     },
     {
@@ -35,6 +35,12 @@
       "body": "Go to the sea.",
       "likes": 0,
       "id": 14
+    },
+    {
+      "title": "AA",
+      "body": "BB",
+      "likes": 0,
+      "id": 15
     }
   ],
   "people": [

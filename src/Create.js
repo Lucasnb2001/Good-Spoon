@@ -9,11 +9,12 @@ const Create = function () {
   const [title, setTitle] = useState('');
   const [body, setBody] = useState('');
   const history = useHistory();
+
   const handleSubmit = (e) => {
     e.preventDefault();
     const recipe = { title, body, likes: 0 };
 
-    fetch('http://localhost:8000/recipes/', {
+    fetch('http://localhost:8500/recipes/', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(recipe),
